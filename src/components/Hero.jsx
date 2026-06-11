@@ -44,13 +44,10 @@ function Hero() {
             <a
               className="btn outline"
               href="/Kavya_Manjusha.pdf"
-              target="_blank"
-              rel="noopener noreferrer"
+              download="Kavya_Manjusha_Resume.pdf"
             >
               View Resume
             </a>
-  
-
             <a className="btn outline" href="#projects">
               View Projects
             </a>
