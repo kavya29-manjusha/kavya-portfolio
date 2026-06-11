@@ -40,13 +40,20 @@ function Hero() {
 
           {/* BUTTONS */}
           <div className="buttons">
-
+            <a
+              className="btn"
+              href="/Kavya_Manjusha.pdf"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              View Resume
+            </a>
             <a
               className="btn outline"
               href="/Kavya_Manjusha.pdf"
               download="Kavya_Manjusha_Resume.pdf"
             >
-              View Resume
+              Download Resume
             </a>
             <a className="btn outline" href="#projects">
               View Projects
