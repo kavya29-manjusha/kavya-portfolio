@@ -41,7 +41,7 @@ function Hero() {
           {/* BUTTONS */}
           <div className="buttons">
             <a
-              className="btn"
+              className="btn primary"
               href="/Kavya_Manjusha.pdf"
               target="_blank"
               rel="noopener noreferrer"
